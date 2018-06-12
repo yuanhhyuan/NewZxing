@@ -95,8 +95,8 @@
 
     <Button
         android:id="@+id/mchinaQR"
-        android:text="其他"
-        android:layout_width="100dp"
+        android:text="跳转到中文二维码"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
 </LinearLayout>
